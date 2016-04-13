@@ -1,0 +1,109 @@
+
+ <style>
+            .bingkai{
+                margin-top: 130px;
+                margin-left: 500px;
+            }
+            body{
+                background-color: #bdc3c7;
+            }
+
+            .kepala{
+                width: 350px;
+                height: 50px;
+                background-color: #ffffff;
+                border-radius: 6px 6px 0 0;
+            }
+
+            .kepalatext{
+                color: #3498db;
+                text-align: center;
+                font-size: 18pt;
+                font-family: Century;
+                padding-top: 12px;
+            }
+            .kepalatext:hover{
+                color: #e74c3c;
+            }
+
+            .badan{
+                width: 350px;
+                height: 290px;
+                background-color: #3498db;
+                border-radius: 6px;
+                box-shadow: -4px -4px 0 0 #3498db;
+            }
+
+            .inputan1{
+                font-family: Century;
+                font-size: 13pt;
+                width: 240px;
+                height: 35px;
+                border: 1px solid #ecf0f1;
+                margin-top: 10px;
+                margin-left: 55px;
+                display: compact;
+                box-shadow: #95a5a6;
+                border-radius: 5px;
+            }
+
+            .inputan1text{
+                font-family: Century;
+                font-size: 13pt;
+                margin-left: 56px;
+                position: relative;
+                top: 20px;  
+            }
+
+            .inputan2{
+                font-family: Century;
+                font-size: 13pt;
+                width: 240px;
+                height: 35px;
+                border: 1px solid #ecf0f1;
+                margin-left: 55px;
+                margin-top: 10px;
+                padding-left: 5px;
+                display: compact;
+                box-shadow: #95a5a6;
+                border-radius: 5px;
+            }
+
+            .inputan2text{
+                font-family: Century;
+                font-size: 13pt;
+                margin-left: 56px;
+                position: relative;
+                top: 40px;
+            }
+
+            .komentar{
+                font-family: Century;
+                color: #3498db;
+                margin-top: 10px;
+                margin-left: 50px;
+                width: 15px;
+                height: 15px;
+                position: relative;
+                top: 18px;
+                display: compact;
+            }
+
+            .masuk{
+                background-color: #3498db;
+                color: #ffffff;
+                margin-top: -15px;  
+                margin-left: 215px;
+                width: 80px;
+                height: 40px;
+                border-radius: 5px;
+            }
+
+            .bawah{
+                margin-top: 58px;
+                width: 350px;
+                height: 50px;
+                background-color: #ffffff;
+                border-radius: 0 0 6px 6px;
+            }
+        </style>
